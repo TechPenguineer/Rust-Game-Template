@@ -49,7 +49,9 @@ If you have any issues please leave them **[here](https://github.com/TechPenguin
 
 # Credits
 
-Big thanks for **[YouCodeThings](https://www.youtube.com/channel/UC0yCXVwW6FdDQGYA-3OWXxw)** for helping out making the template!
+Big thanks for **[YouCodeThings](https://www.youtube.com/channel/UC0yCXVwW6FdDQGYA-3OWXxw)** for coding the template!
 
 You can find his github here:
-**https://github.com/AndrewJakubowicz**
+**https://github.com/AndrewJakubowicz*
+
+***I DID NOT WRITE THE CODE ALL I DID WAS WRITE THE INSTRUCTIONS***
